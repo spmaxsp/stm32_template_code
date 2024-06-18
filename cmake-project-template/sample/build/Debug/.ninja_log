@@ -1,0 +1,27 @@
+# ninja log v5
+114	249	7400053230031085	CMakeFiles/sample-project.dir/Core/Startup/startup_stm32g071g8uxn.s.obj	6fca4a4aac7d0c0b
+90	529	7400053231720551	CMakeFiles/sample-project.dir/Core/Src/sysmem.c.obj	d394ec6b12ddfa2e
+25	438	7400054212068990	CMakeFiles/sample-project.dir/Core/Src/gpio.c.obj	543ac86b432fa54e
+68	482	7400054212508017	CMakeFiles/sample-project.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_utils.c.obj	783302c820b70e5f
+78	529	7400053232765469	CMakeFiles/sample-project.dir/Core/Src/syscalls.c.obj	4330cedc4d830964
+50	376	7400054211596797	CMakeFiles/sample-project.dir/Core/Src/system_stm32g0xx.c.obj	37c6598cac1aad91
+57	422	7400054212002105	CMakeFiles/sample-project.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_exti.c.obj	c1280ebf8f9bc51a
+42	442	7400054212134159	CMakeFiles/sample-project.dir/Core/Src/stm32g0xx_it.c.obj	d251a097b07e3a9d
+89	432	7400054212033860	CMakeFiles/sample-project.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_pwr.c.obj	9b8e9851a6690dd8
+80	530	7400054213135985	CMakeFiles/sample-project.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj	935a8d4bdd013999
+34	451	7400054212308300	CMakeFiles/sample-project.dir/Core/Src/main.c.obj	afb5585c067943ef
+100	463	7400054212415524	CMakeFiles/sample-project.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_gpio.c.obj	7db3e08fd5b3ef9c
+530	1162	7400054217139258	sample-project.elf	1350c9adb1c6e5f7
+75	180	7400059235390226	CMakeFiles/sample-project.dir/Core/Startup/startup_stm32g071g8uxn.s.obj	b38ede3be4545bf2
+56	310	7400059236788878	CMakeFiles/sample-project.dir/Core/Src/sysmem.c.obj	5a488cf0c34ad6b0
+64	441	7400059238011829	CMakeFiles/sample-project.dir/Core/Src/system_stm32g0xx.c.obj	34f0c35367944f21
+38	453	7400059238153492	CMakeFiles/sample-project.dir/Core/Src/stm32g0xx_it.c.obj	383ccd11010d77f3
+46	461	7400059238198682	CMakeFiles/sample-project.dir/Core/Src/syscalls.c.obj	d6faacdaa66396d7
+85	476	7400059238431051	CMakeFiles/sample-project.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_exti.c.obj	6c63c9a577922995
+18	479	7400059238487657	CMakeFiles/sample-project.dir/Core/Src/gpio.c.obj	31a91a186df512da
+30	504	7400059238722334	CMakeFiles/sample-project.dir/Core/Src/main.c.obj	d525cda77c9eb1c3
+116	508	7400059238777436	CMakeFiles/sample-project.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_pwr.c.obj	6c5ad254109b53d6
+129	521	7400059238885155	CMakeFiles/sample-project.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_gpio.c.obj	7cd5a1da0d04e2a8
+95	522	7400059238895157	CMakeFiles/sample-project.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_utils.c.obj	632bc66c8a2c82c0
+105	554	7400059239230245	CMakeFiles/sample-project.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_rcc.c.obj	36673ff50dde2fa3
+554	912	7400059241486115	sample-project.elf	1350c9adb1c6e5f7

@@ -1,0 +1,3 @@
+C:/Users/Maximilian/Documents/GIT/stm32_template_code/cmake-project-template/sample/build/Debug/CMakeFiles/sample-project.dir
+C:/Users/Maximilian/Documents/GIT/stm32_template_code/cmake-project-template/sample/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/Maximilian/Documents/GIT/stm32_template_code/cmake-project-template/sample/build/Debug/CMakeFiles/rebuild_cache.dir
